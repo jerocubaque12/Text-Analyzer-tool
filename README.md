@@ -21,4 +21,4 @@ A simple yet powerful Python script to analyze text input. This project was deve
 *   `time` module (built-in)
 
 ##  Author
-*   Jeronimo Cubaque - 
+*   Jeronimo Cubaque - https://github.com/jerocubaque12
