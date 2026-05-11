@@ -13,7 +13,7 @@ A simple yet powerful Python script to analyze text input. This project was deve
 1. Clone this repository:
    git clone https://github.com/jerocubaque12/Text-Analyzer-tool.git
 2. Run the script:
-   python main.py
+   TextAnalyzer.py
 3. Follow the on-screen instructions to enter your text and the letters you want to analyze.
 
 ## Requirements
